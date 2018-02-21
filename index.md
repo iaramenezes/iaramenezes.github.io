@@ -38,3 +38,14 @@ Blog : []()
 1s numeros adicionam uma lista numerada
 *s adiciona uma lista não numerada
 ![]() Link
+
+[![](Nome da imagem)](Link do seu jogo) Isso para uma imagem com link
+
+[O nome que vc quer que apareça](Link do site, ou link de algum arquivo que queira colocar) Isso é apenas para links sem imagem
+
+
+
+
+
+
+
