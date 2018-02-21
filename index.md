@@ -4,10 +4,10 @@ Me chamo Iara Menezes, sou programadora de jogos digitais, estudo no instituto f
 
 # Contatos
 
-* Email : 
-Facebook :
-Instagram : 
-Blog : 
+Email :  iaram.menezes@yahoo.com.br
+Facebook : Iara Menezes
+Instagram :  iaramennezes
+Blog :  
 
 # Games
 
@@ -24,7 +24,7 @@ Blog :
 # Trabalhos
 
 
-# deixa em negrito
+- # deixa em negrito
 ~~ Riscado
 *** Adiciona uma linha horizontal
 * Adiciona um ponto
