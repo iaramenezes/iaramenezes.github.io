@@ -6,7 +6,7 @@ Me chamo Iara Menezes, sou programadora de jogos digitais, estudo no instituto f
 
 Email :  iaram.menezes@yahoo.com.br
 
-Facebook : [Iara Menezes]()
+Facebook : [Iara Menezes](https://www.facebook.com/iaramennezes)
 
 Instagram : [iaramennezes]()
 
