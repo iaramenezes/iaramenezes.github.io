@@ -6,11 +6,11 @@ Me chamo Iara Menezes, sou programadora de jogos digitais, estudo no instituto f
 
 Email :  iaram.menezes@yahoo.com.br
 
-Facebook : Iara Menezes
+Facebook : [Iara Menezes]()
 
-Instagram :  iaramennezes
+Instagram : [iaramennezes]()
 
-Blog :  
+Blog : []()
 
 # Games
 
@@ -33,3 +33,4 @@ Blog :
 * Adiciona um ponto
 1s numeros adicionam uma lista numerada
 *s adiciona uma lista não numerada
+![]() Link
