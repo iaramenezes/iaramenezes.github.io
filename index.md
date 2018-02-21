@@ -5,8 +5,11 @@ Me chamo Iara Menezes, sou programadora de jogos digitais, estudo no instituto f
 # Contatos
 
 Email :  iaram.menezes@yahoo.com.br
+
 Facebook : Iara Menezes
+
 Instagram :  iaramennezes
+
 Blog :  
 
 # Games
