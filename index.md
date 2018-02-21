@@ -11,11 +11,22 @@ Blog :
 
 # Games
 
+***
 
 # Artes
 
+***
 
 # Projetos Desenvolvidos
 
+***
 
 # Trabalhos
+
+
+# deixa em negrito
+~~ Riscado
+*** Adiciona uma linha horizontal
+* Adiciona um ponto
+1s numeros adicionam uma lista numerada
+*s adiciona uma lista não numerada
