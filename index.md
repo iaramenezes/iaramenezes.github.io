@@ -10,7 +10,7 @@ Facebook : [Iara Menezes](https://www.facebook.com/iaramennezes)
 
 Instagram : [iaramennezes](https://www.instagram.com/iaramennezes)
 
-Blog : [Ouvindo o Céu](https://www.palavrasquecuramblog.wordpress.com)
+Blog : [Ouvindo o Céu](palavrasquecuramblog.wordpress.com)
 
 # _Games_
 
