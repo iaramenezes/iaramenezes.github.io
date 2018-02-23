@@ -8,9 +8,9 @@ Email :  iaram.menezes@yahoo.com.br
 
 Facebook : [Iara Menezes](https://www.facebook.com/iaramennezes)
 
-Instagram : [iaramennezes]()
+Instagram : [iaramennezes](https://www.instagram.com/iaramennezes)
 
-Blog : []()
+Blog : [Ouvindo o Céu](https://www.palavrasquecuramblog.wordpress.com)
 
 # _Games_
 
