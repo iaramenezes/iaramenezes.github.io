@@ -3,11 +3,11 @@
 ***
 ![](eu.jpg)   
                                                        
-Nome? Iara. Sobrenome? Menezes. 19 anos, Brasileira, Pernambucana, atualmente reside em Natal/Rn. 
-Futura técnica em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Futura Psicopedagoga. 
-Um sonho? _Desenvolver jogos para auxiliar no aprendizado de crianças autistas e com algum tipo de deficiência cognitiva._
+Nome? Iara Machado Menezes. 19 anos, Brasileira, Pernambucana, atualmente reside em Natal/Rn. 
+Atualmente cursa Programação de Jogos Digitais no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Futura Psicopedagoga. 
+Um sonho? _Desenvolver jogos para auxiliar no aprendizado de crianças autistas e com algum tipo de deficiência cognitiva._ 
 Amante por livros. Acredita em uma geração onde o diferente não é um defeito, onde há empatia e respeito. 
-Ama música._Especialmente as que ninguém conhece._ Apaixonada por Blues e por música indie-folk. Arranha um violão e canta por hobby. Filha do Amor, odeia o calor, ama flor, e se fosse um dos 7 anões, com certeza seria o soneca. _Ela vive com sono._
+Ama música. _Especialmente as que ninguém conhece._ Apaixonada por Blues e por música indie-folk. Arranha um violão e canta por hobby. Filha do Amor, tem pavor ao calor, ama uma flor, e se fosse um dos 7 anões, com certeza seria o soneca. _Ela vive com sono._
 _Vamos tomar um café? O meu, sem açúcar._ 🌺
  
   
