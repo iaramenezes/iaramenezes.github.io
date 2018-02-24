@@ -1,10 +1,11 @@
 # Sobre mim
 
 ***
-![](eu.jpg)
-
-Nome? Iara. Sobrenome? Menezes. 19 anos, Brasileira, Pernambucana, atualmente reside em Natal/Rn. Futura técnica em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Atualmente, falta praticamente 25% para concluí-lo. _Estou em ânsias_. Futura Psicopedagoga. 
-Um sonho? Desenvolver jogos para auxiliar no aprendizado de crianças autistas e com algum tipo de deficiência cognitiva. Amante da tecnologia, mas ainda mais amante pelos livros. Acredita em uma geração que compreende que diferenças não são defeitos, e por isso, promove sempre a empatia e o respeito. Ama música._Especialmente as que ninguém conhece._ Apaixonada por Blues e por música folk. Arranha um violão e canta por hobby. Filha do Amor, abomina calor, ama flor, e se fosse um dos 7 anões, com certeza seria o soneca. _Ela vive com sono._
+![](eu.jpg)    Nome? Iara. Sobrenome? Menezes. 19 anos, Brasileira, Pernambucana, atualmente reside em Natal/Rn. 
+              Futura técnica em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Futura Psicopedagoga. 
+Um sonho? _Desenvolver jogos para auxiliar no aprendizado de crianças autistas e com algum tipo de deficiência cognitiva._
+Amante por livros. Acredita em uma geração onde o diferente não é um defeito, onde há empatia e respeito. 
+Ama música._Especialmente as que ninguém conhece._ Apaixonada por Blues e por música indie-folk. Arranha um violão e canta por hobby. Filha do Amor, odeia o calor, ama flor, e se fosse um dos 7 anões, com certeza seria o soneca. _Ela vive com sono._
 _Vamos tomar um café? O meu, sem açúcar._ 🌺
  
   
