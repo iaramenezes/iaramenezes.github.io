@@ -1,7 +1,7 @@
 # Sobre mim
 
 ***
-                                                       ![](eu.jpg)   
+![](eu.jpg)   
                                                        
 Nome? Iara. Sobrenome? Menezes. 19 anos, Brasileira, Pernambucana, atualmente reside em Natal/Rn. 
 Futura técnica em Programação de Jogos Digitais pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Futura Psicopedagoga. 
