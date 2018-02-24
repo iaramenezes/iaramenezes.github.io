@@ -19,13 +19,13 @@ _Vamos tomar um café? O meu, sem açúcar._ 🌺
 
 ***
 
- Email :  iaram.menezes@yahoo.com.br
+* Email :  iaram.menezes@yahoo.com.br
 
- Facebook : [Iara Menezes](https://www.facebook.com/iaramennezes)
+ * Facebook : [Iara Menezes](https://www.facebook.com/iaramennezes)
 
- Instagram : [iaramennezes](https://www.instagram.com/iaramennezes)
+ * Instagram : [iaramennezes](https://www.instagram.com/iaramennezes)
 
- Blog : [Ouvindo o Céu](https://palavrasquecuramblog.wordpress.com/)
+ * Blog : [Ouvindo o Céu](https://palavrasquecuramblog.wordpress.com/)
 
 ***
 
@@ -57,9 +57,6 @@ _Vamos tomar um café? O meu, sem açúcar._ 🌺
 * [Cartaz informativo sobre os Sais Minerais](Sais Minerais.pdf) 
 
 
-# _Apresentações_
-
-***
 
 - # deixa em negrito
 ~~ Riscado
