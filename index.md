@@ -1,7 +1,7 @@
 # Sobre mim
 
 ***
-![](euu.jpg)   
+![](16174580_999984226812107_7438280147662400255_n.jpg)   
                                                        
 Nome? Iara Machado Menezes. 19 anos, Brasileira, Pernambucana, reside em Natal/Rn. 
 Atualmente faz curso técnico de Programação de Jogos Digitais no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, campus Ceará-Mirim/RN. _Somos a primeira turma do Brasil._ Futura Psicopedagoga. 
