@@ -40,14 +40,22 @@ _Vamos tomar um café? O meu, sem açúcar._ 🌺
 # Artes
 
 ***
+![Cenário feito para uma animação](cenario-iara-2.png) 
 
 # Projetos Desenvolvidos
 
 ***
+* [MEU PRIMEIRO PROJETO](EM BUSCA DE ESCRITORES NO VALE CEARÁ-MIRIM.pptx) 
+* [PROJETO DESENVOLVIDO NA MATÉRIA DE BIOLOGIA](BIOLOGIA.pptx)
 
 # Trabalhos
 
 **
+
+* [MEU PRIMEIRO GDD](GDD(1).docx)
+* [Cartaz informativo sobre as Vitaminas](VITAMINAS.PDF)
+* [Cartaz informativo sobre os Sais Minerais](Sais Minerais.pdf) 
+
 
 # _Apresentações_
 
